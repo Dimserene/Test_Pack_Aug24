@@ -1,0 +1,24 @@
+[submodule "Mods/Themed-Jokers"]
+	path = Mods/Themed-Jokers
+	url = https://github.com/BlizzowX/Balatro---Themed-Jokers
+[submodule "Mods/Paperback"]
+	path = Mods/Paperback
+	url = https://github.com/GitNether/paperback
+[submodule "Mods/CheesyJokers"]
+	path = Mods/CheesyJokers
+	url = https://github.com/ilikecheese0/CheesyJokers
+[submodule "Mods/SyltStickers"]
+	path = Mods/SyltStickers
+	url = https://github.com/snowylight/SyltStickers
+[submodule "Mods/NewbieProject"]
+	path = Mods/NewbieProject
+	url = https://github.com/Cooler2231/NewbieProject/
+[submodule "Mods/FloundersJokers"]
+	path = Mods/FloundersJokers
+	url = https://github.com/Flounderlul/FloundersJokers
+[submodule "Mods/Balatro451"]
+	path = Mods/Balatro451
+	url = https://github.com/SM451Modding/Balatro451/
+[submodule "Mods/AncientJokerFix"]
+	path = Mods/AncientJokerFix
+	url = https://github.com/gabepesco/BalatroAncientJokerFix
