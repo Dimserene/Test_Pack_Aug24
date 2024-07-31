@@ -11,9 +11,12 @@ __Intended to be used alongside [Main packs](https://github.com/Dimserene/Dimser
     [Download](https://github.com/ethangreen-dev/lovely-injector/releases) [Discord](https://discord.com/channels/1116389027176787968/1214591552903716954) [Authors](https://github.com/ethangreen-dev/lovely-injector/graphs/contributors?from=2024-03-03&to=2024-06-26&type=c)
 
 - Install Any of my main packs:
-  -[Full/Extreme](https://github.com/Dimserene/Dimserenes-Modpack)
-  -[Fine-tuned](https://github.com/Dimserene/Fine-tuned-Pack)
-  -[Vanilla+](https://github.com/Dimserene/Vanilla-Plus-Pack)
+
+  - [Full/Extreme](https://github.com/Dimserene/Dimserenes-Modpack)
+  
+  - [Fine-tuned](https://github.com/Dimserene/Fine-tuned-Pack)
+  
+  - [Vanilla+](https://github.com/Dimserene/Vanilla-Plus-Pack)
 
 ---
 
