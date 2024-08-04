@@ -22,3 +22,6 @@
 [submodule "Mods/AncientJokerFix"]
 	path = Mods/AncientJokerFix
 	url = https://github.com/gabepesco/BalatroAncientJokerFix
+[submodule "Mods/CollectorsCards"]
+	path = Mods/CollectorsCards
+	url = https://github.com/Mathguy23/CollectorsCards
