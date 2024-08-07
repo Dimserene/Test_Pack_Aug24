@@ -16,9 +16,6 @@
 [submodule "Mods/FloundersJokers"]
 	path = Mods/FloundersJokers
 	url = https://github.com/Flounderlul/FloundersJokers
-[submodule "Mods/Balatro451"]
-	path = Mods/Balatro451
-	url = https://github.com/SM451Modding/Balatro451/
 [submodule "Mods/AncientJokerFix"]
 	path = Mods/AncientJokerFix
 	url = https://github.com/gabepesco/BalatroAncientJokerFix
