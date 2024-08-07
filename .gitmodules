@@ -10,9 +10,6 @@
 [submodule "Mods/SyltStickers"]
 	path = Mods/SyltStickers
 	url = https://github.com/snowylight/SyltStickers
-[submodule "Mods/NewbieProject"]
-	path = Mods/NewbieProject
-	url = https://github.com/Cooler2231/NewbieProject/
 [submodule "Mods/FloundersJokers"]
 	path = Mods/FloundersJokers
 	url = https://github.com/Flounderlul/FloundersJokers
